@@ -5,3 +5,4 @@ requirements
 volta
 jest
 ts
+test
